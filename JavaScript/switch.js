@@ -7,4 +7,4 @@ switch(num1%3){
         default:
             console.log(`${num1} is not divisible by 3`)
             break;    
-}
+};
